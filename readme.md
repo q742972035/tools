@@ -12,7 +12,7 @@
 <dependency>
     <groupId>com.github.q742972035.tools</groupId>
     <artifactId>tools</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOTS</version>
 </dependency>
 ```
 **（仓库地址为maven中央仓库）**
